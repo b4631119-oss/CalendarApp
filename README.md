@@ -2,8 +2,7 @@
 ![Image](https://github.com/user-attachments/assets/44443874-b415-4b24-97b5-51a2b351dc53)
 
 
-A modern, responsive web app that merges a **monthly calendar** with a **timed event / to-do list**. Pick future (or today’s) dates, set hours and minutes, write a short note, then **add**, **edit**, or **delete** events. The UI uses a dark **glassmorphism** style, subtle **Framer Motion** transitions, and **Sonner** toasts for feedback. All event data lives in the browser via **`localStorage`**—there is **no server database** and **no REST API** in this repo.
-
+Современное адаптивное веб-приложение, объединяющее календарь на месяц со списком событий и задач, привязанных к конкретному времени. Выбирайте даты (будущие или текущие), указывайте время, добавляйте краткие заметки, а также создавайте, редактируйте или удаляйте события. Интерфейс выполнен в стиле «темного глассморфизма» (dark glassmorphism) с использованием плавных переходов Framer Motion и уведомлений Sonner для обратной связи. Все данные о событиях хранятся локально в браузере (через localStorage); в данном репозитории отсутствуют серверная база данных и REST API.
 
 ## 🛠️ Стек
 * **Фреймворк:** Next.js 15 (App Router) + React 19 + TypeScript
